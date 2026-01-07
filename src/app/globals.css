@@ -1,6 +1,6 @@
-@import "tailwindcss";
-@import "tailwindcss/preflight";
-@import "tailwindcss/utilities";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /* 라이트/다크 및 브랜드 색상 정의 */
 :root {
